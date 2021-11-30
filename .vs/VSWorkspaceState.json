@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src", 
+    "\\src\\dnc100-build-your-own-universe"
   ],
-  "SelectedNode": "\\src",
+  "SelectedNode": "dnc100-build-your-own-universe.sln",
   "PreviewInSolutionExplorer": false
 }

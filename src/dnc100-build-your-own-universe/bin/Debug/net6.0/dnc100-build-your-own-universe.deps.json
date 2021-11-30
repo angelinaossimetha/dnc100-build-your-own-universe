@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dnc100-build-your-own-universe/1.0.0": {
+        "runtime": {
+          "dnc100-build-your-own-universe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dnc100-build-your-own-universe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

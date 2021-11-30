@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Documents\\apprentice\\dnc100-build-your-own-universe\\dnc100-build-your-own-universe.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Documents\\apprentice\\dnc100-build-your-own-universe\\src\\dnc100-build-your-own-universe\\dnc100-build-your-own-universe.csproj",
       "projectName": "dnc100-build-your-own-universe",
-      "projectPath": "C:\\Users\\angel\\OneDrive\\Documents\\apprentice\\dnc100-build-your-own-universe\\dnc100-build-your-own-universe.csproj",
+      "projectPath": "C:\\Users\\angel\\OneDrive\\Documents\\apprentice\\dnc100-build-your-own-universe\\src\\dnc100-build-your-own-universe\\dnc100-build-your-own-universe.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\angel\\OneDrive\\Documents\\apprentice\\dnc100-build-your-own-universe\\obj\\",
+      "outputPath": "C:\\Users\\angel\\OneDrive\\Documents\\apprentice\\dnc100-build-your-own-universe\\src\\dnc100-build-your-own-universe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

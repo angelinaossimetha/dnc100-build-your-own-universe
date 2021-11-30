@@ -6,7 +6,7 @@ namespace dnc100_build_your_own_universe
 {
     public class Star
     {
-        private string name;  
+        private string name;
 
         public Star(string name)
         {
